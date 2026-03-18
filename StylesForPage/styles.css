@@ -1,0 +1,32 @@
+header
+{
+    background-color:blanchedalmond;
+    padding: 10px;
+}
+
+h1
+{
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+nav ul li
+{
+    background-color: black;
+    display: inline;
+    padding: 15px;
+    margin: 5px;
+    border: 2px gray;
+    border-radius: 10px;
+}
+nav
+{
+    text-align: center;
+}
+
+nav ul li a
+{
+    color: white;
+}
